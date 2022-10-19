@@ -6,6 +6,9 @@ __pycache__/
 #api keys
 api_keys.py
 
+API_practice.ipynb
+random_numbers.ipynb
+
 # C extensions
 *.so
 
