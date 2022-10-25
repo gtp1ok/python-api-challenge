@@ -1,5 +1,7 @@
 # python-api-challenge
-Special Instructions:  Must use your own api key
+Special Instructions:  
+(1) Must use your own api key
+(2) Respective data outputs are within the data_output folder.
 
 assignment instructions:
 
