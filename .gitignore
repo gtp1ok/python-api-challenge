@@ -5,6 +5,7 @@ __pycache__/
 
 #api keys
 api_keys.py
+config.py
 
 API_practice.ipynb
 random_numbers.ipynb
